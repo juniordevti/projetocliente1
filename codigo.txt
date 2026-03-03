@@ -1,0 +1,172 @@
+Oi! Tudo bem? 😊
+
+Eu quero contratar você para criar um site pra mim, e vou te explicar 
+exatamente como eu gostaria que ele fosse. 
+Quero que seja feito somente com HTML e CSS, sem JavaScript.
+
+💼 Sobre o projeto
+
+Quero um site para minha empresa chamada TechNova Soluções Digitais 
+(empresa fictícia de criação de sistemas e sites).
+
+O site precisa ser:
+
+100% em HTML e CSS
+
+Responsivo (funcionar bem no celular e no computador)
+
+Moderno, minimalista e profissional
+
+Bem organizado e com código limpo
+
+📄 Estrutura do site
+
+Quero que o site tenha as seguintes seções:
+
+1️⃣ Header (Topo do site)
+
+Logo com o nome TechNova
+
+Menu de navegação com links:
+
+Início
+
+Sobre
+
+Serviços
+
+Portfólio
+
+Contato
+
+Menu alinhado à direita
+
+Fundo escuro (#111 ou parecido)
+
+Quando passar o mouse nos links, mudar de cor
+
+2️⃣ Seção Hero (Destaque inicial)
+
+Uma frase impactante como:
+
+"Transformamos ideias em experiências digitais"
+
+Um pequeno texto explicando a empresa
+
+Um botão chamativo: "Solicitar Orçamento"
+
+Fundo com cor degradê ou imagem com overlay escuro
+
+3️⃣ Sobre a Empresa
+
+Título: "Sobre Nós"
+
+Um texto explicando quem somos
+
+Uma imagem ao lado do texto
+
+Layout em duas colunas no desktop
+
+No mobile, imagem abaixo do texto
+
+4️⃣ Serviços
+
+Quero 3 cards com:
+
+Ícone no topo
+
+Título do serviço
+
+Pequena descrição
+
+Serviços:
+
+Criação de Sites
+
+Desenvolvimento de Sistemas
+
+Consultoria Digital
+
+Os cards devem:
+
+Ter sombra suave
+
+Arredondamento nos cantos
+
+Efeito hover (levemente subir ou mudar sombra)
+
+5️⃣ Portfólio
+
+Uma galeria com 6 projetos
+
+Layout em grid
+
+Cada item com:
+
+Imagem
+
+Nome do projeto
+
+Efeito ao passar o mouse (overlay com o nome)
+
+6️⃣ Contato
+
+Quero um formulário simples com:
+
+Nome
+
+Email
+
+Mensagem
+
+Botão "Enviar"
+
+Estilizado, centralizado e elegante.
+
+7️⃣ Footer (Rodapé)
+
+Nome da empresa
+
+Direitos autorais
+
+Links para redes sociais
+
+Fundo escuro
+
+🎨 Estilo Visual
+
+Fonte moderna (Google Fonts pode usar via link no HTML)
+
+Paleta:
+
+Azul principal (#2563eb ou parecido)
+
+Branco
+
+Cinza claro
+
+Preto ou cinza escuro
+
+Bastante espaçamento
+
+Layout clean
+
+Transições suaves com CSS
+
+📱 Responsividade
+
+Quero que você use:
+
+Flexbox
+
+CSS Grid
+
+Media Queries
+
+O site deve:
+
+Se adaptar bem a telas menores
+
+Menu ficar vertical no mobile
+
+Cards ficarem empilhados no celular
